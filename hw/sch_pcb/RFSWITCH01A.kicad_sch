@@ -1,4 +1,4 @@
-(kicad_sch (version 20200828) (generator eeschema)
+(kicad_sch (version 20201015) (generator eeschema)
 
   (page 1 1)
 
@@ -2291,7 +2291,7 @@
     (property "Footprint" "Package_TO_SOT_SMD:SOT-353_SC-70-5" (id 2) (at 53.34 74.93 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 53.34 74.93 0)
+    (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps22945.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1603435443532&ref_url=https%253A%252F%252Fcz.mouser.com%252F" (id 3) (at 53.34 74.93 0)
       (effects (font (size 1.524 1.524)) hide)
     )
   )
@@ -2346,6 +2346,10 @@
     (property "Datasheet" "https://www.psemi.com/pdf/datasheets/pe4259ds.pdf" (id 3) (at 227.33 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 
   (symbol_instances
