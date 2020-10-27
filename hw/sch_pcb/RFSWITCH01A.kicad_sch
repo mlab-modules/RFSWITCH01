@@ -2033,7 +2033,7 @@
   (symbol (lib_id "MLAB_HEADER:HEADER_2x01_PARALLEL") (at 67.31 73.66 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid "9309b779-2147-4d22-8092-cee645fc2e3c")
-    (property "Reference" "J?" (id 0) (at 66.4845 75.8165 0)
+    (property "Reference" "J11" (id 0) (at 66.4845 75.8165 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "HEADER_2x01_PARALLEL" (id 1) (at 65.215 76.919 0)
@@ -2483,7 +2483,7 @@
       (reference "J10") (unit 1) (value "SMA") (footprint "Connector_Coaxial:SMB_Jack_Vertical")
     )
     (path "/9309b779-2147-4d22-8092-cee645fc2e3c"
-      (reference "J?") (unit 1) (value "HEADER_2x01_PARALLEL") (footprint "Mlab_Pin_Headers:Straight_2x01")
+      (reference "J11") (unit 1) (value "HEADER_2x01_PARALLEL") (footprint "Mlab_Pin_Headers:Straight_2x01")
     )
     (path "/d448d3b4-212e-46f9-97d8-78c2a05e70a4"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
