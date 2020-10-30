@@ -1,5 +1,5 @@
 <!--- Name:RFSWITCH01A: --->
-# TFGPS01A
+# RFSWITCH01A
 
 <!--- LongName --->
 ## RF switch
