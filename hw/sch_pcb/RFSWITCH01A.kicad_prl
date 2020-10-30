@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 48,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -60,7 +60,7 @@
       37,
       38
     ],
-    "visible_layers": "fffffef_7ffffffe"
+    "visible_layers": "fffffef_ffffffff"
   },
   "meta": {
     "filename": "RFSWITCH01A.kicad_prl",
