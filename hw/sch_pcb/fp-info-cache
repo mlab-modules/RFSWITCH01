@@ -1,4 +1,4 @@
-19657873200756634
+19658312884246696
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -58338,13 +58338,6 @@ Inductor
 2
 2
 Mlab_Mechanical
-0
-
-
-0
-1
-1
-Mlab_Mechanical
 BMI-S-210-F
 
 
@@ -58379,6 +58372,13 @@ pin header straight 2x01
 0
 2
 2
+Mlab_Mechanical
+dira_3mm
+
+
+0
+0
+0
 Mlab_Pin_Headers
 Angled_1x01
 pin header angled 1x01
