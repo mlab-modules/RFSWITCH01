@@ -133,8 +133,8 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.4,
-          "drill": 0.15
+          "diameter": 0.45,
+          "drill": 0.2
         },
         {
           "diameter": 0.8,
@@ -397,7 +397,7 @@
   },
   "sheets": [
     [
-      "1004c6b9-dc30-4cf2-9ad4-7b5449e7e1a3",
+      "42160e62-4b42-4da9-918b-c2aa714f33eb",
       ""
     ]
   ],
