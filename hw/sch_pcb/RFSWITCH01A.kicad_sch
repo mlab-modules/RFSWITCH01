@@ -2678,8 +2678,8 @@
 
   (symbol (lib_id "MLAB_CONNECTORS:SMA") (at 66.04 85.09 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid "e7024046-af9f-4fab-98e9-6813e4e55518")
-    (property "Reference" "J2" (id 0) (at 61.5949 84.5617 0)
+    (uuid "0904887b-cd6c-4d89-9321-511f38cd5bc7")
+    (property "Reference" "J3" (id 0) (at 61.5949 84.5617 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Value" "SMA" (id 1) (at 61.5949 87.2693 0)
@@ -2695,8 +2695,8 @@
 
   (symbol (lib_id "MLAB_CONNECTORS:SMA") (at 67.31 110.49 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid "0904887b-cd6c-4d89-9321-511f38cd5bc7")
-    (property "Reference" "J3" (id 0) (at 62.8649 109.9617 0)
+    (uuid "e7024046-af9f-4fab-98e9-6813e4e55518")
+    (property "Reference" "J2" (id 0) (at 62.8649 109.9617 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
     (property "Value" "SMA" (id 1) (at 62.8649 112.6693 0)
