@@ -85,8 +85,8 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_over_copper": "error",
-        "silk_overlap": "error",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -364,12 +364,7 @@
           "/RF_IN_OUT",
           "/RX{slash}TX_1",
           "/RX{slash}TX_2",
-          "/TX",
-          "Net-(C5-Pad1)",
-          "Net-(C5-Pad2)",
-          "Net-(C8-Pad1)",
-          "Net-(C8-Pad2)",
-          "Net-(L3-Pad1)"
+          "/TX"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
@@ -425,7 +420,7 @@
   },
   "sheets": [
     [
-      "69c8809b-a6de-44c3-a6f8-a4b57331b735",
+      "0fa17a8f-8910-4b7c-84b8-5eb157ee4ed6",
       ""
     ]
   ],
