@@ -318,7 +318,6 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -426,7 +425,7 @@
   },
   "sheets": [
     [
-      "79b446e8-03ba-45f5-b6ad-9ff5b0d72545",
+      "69c8809b-a6de-44c3-a6f8-a4b57331b735",
       ""
     ]
   ],
