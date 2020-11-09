@@ -3000,6 +3000,9 @@
     (property "Datasheet" "" (id 3) (at 95.758 86.868 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "UST_ID" "5c70984712875079b91f8b19" (id 4) (at 93.98 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
   )
 
   (symbol (lib_id "MLAB_IO:PE4259") (at 107.95 152.4 0) (unit 1)
