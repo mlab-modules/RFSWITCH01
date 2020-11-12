@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Chroust\stare\MLAB_G\Moduly_zvlast\RFSWITCH01\hw\sch_pcb\RFSWITCH01A.kicad_sch</source>
+    <date>12.11.2020 10:16:20</date>
+    <tool>Eeschema (5.99.0-6591-gee6c8b60ac)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RFSWITCH01A.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bbd</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>58d02eb4-b6cd-49e6-89c7-bde1e73520b0</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100pF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>eb160569-9e56-4b4c-92ac-7376208cb3df</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b4c</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>2122f01d-f131-464b-8f48-7118a45e75e5</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100pF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b3b</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b3b"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8809ebb4-3248-4151-9c07-aa48c0d8964e</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>1nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b45</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b45"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>324703e5-1524-4c3c-aa14-7883db73e40f</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>1nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b45</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b45"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>19af895c-00e5-4137-894f-99eac816f2e2</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>1nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b45</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b45"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>f4c8e16e-4166-4f4b-8fbf-2a777c90d232</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1nF</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b45</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b45"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>c27783d8-3736-447e-8852-f7091b1db64e</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>2p2</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b27</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b27"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>04d1d7eb-7654-47d3-ad40-fde15231f29d</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>2p2</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b27</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b27"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>666e0ca8-5d7a-4450-b949-9e7ad1170d14</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>M4</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88ac</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="UST_ID" value="5c70984512875079b91f88ac"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9978a045-bfc7-4348-bf08-9595a56abf82</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>BZV55C-3,6V</value>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <datasheet>https://www.tme.eu/cz/details/mmsz5227bq-7-f/zenerovy-diody-smd/diodes-incorporated/</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88b1</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="UST_ID" value="5c70984512875079b91f88b1"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>05af1439-b5b1-4738-a285-9b92f6c296ea</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>BZV55C-3,6V</value>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <datasheet>https://www.tme.eu/cz/details/mmsz5227bq-7-f/zenerovy-diody-smd/diodes-incorporated/</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88b1</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="UST_ID" value="5c70984512875079b91f88b1"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6e2b366e-c2cb-4211-8bc8-8b2c5c4dbd87</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>RED</value>
+      <footprint>Mlab_D:LED_1206</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f8896</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="UST_ID" value="5c70984412875079b91f8896"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4f14cd68-8a35-4b7b-bfab-b80f79e7e421</tstamp>
+    </comp>
+    <comp ref="FL1">
+      <value>SAW_AFS434S3-T_AFS869S3-T</value>
+      <footprint>MLAB_SAW:ABRACON_AFS</footprint>
+      <fields>
+        <field name="UST_ID">5c70984712875079b91f8b19</field>
+      </fields>
+      <libsource lib="MLAB_IO" part="SAW_AFS434S3-T_AFS869S3-T" description="Dielectric Band Pass Filter for 1575MHz"/>
+      <property name="UST_ID" value="5c70984712875079b91f8b19"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>67bb44c0-9777-4820-b5d9-1abcb1b6ed58</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>HEADER_2x03_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>12352d3f-7f11-4669-8127-f5076d7a5833</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>SMA</value>
+      <footprint>Connector_Coaxial:SMB_Jack_Vertical</footprint>
+      <fields>
+        <field name="UST_ID">5fa10cc512875025b39779f6</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS" part="SMA" description=""/>
+      <property name="UST_ID" value="5fa10cc512875025b39779f6"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>e7024046-af9f-4fab-98e9-6813e4e55518</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>SMA</value>
+      <footprint>Connector_Coaxial:SMB_Jack_Vertical</footprint>
+      <fields>
+        <field name="UST_ID">5fa10cc512875025b39779f6</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS" part="SMA" description=""/>
+      <property name="UST_ID" value="5fa10cc512875025b39779f6"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0904887b-cd6c-4d89-9321-511f38cd5bc7</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>HEADER_2x01_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>127366a1-c95e-40a0-b8e4-6eb0cfbdf20f</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>HEADER_2x01_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>66c21de5-b57f-45b4-a278-31a12caaa61e</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>HEADER_2x01_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9309b779-2147-4d22-8092-cee645fc2e3c</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>SMA</value>
+      <footprint>Connector_Coaxial:SMB_Jack_Vertical</footprint>
+      <fields>
+        <field name="UST_ID">5fa10cc512875025b39779f6</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS" part="SMA" description=""/>
+      <property name="UST_ID" value="5fa10cc512875025b39779f6"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>e0a70bdb-04f4-4ba2-97f8-f9e64c1e4608</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>SMA</value>
+      <footprint>Connector_Coaxial:SMB_Jack_Vertical</footprint>
+      <fields>
+        <field name="UST_ID">5fa10cc512875025b39779f6</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS" part="SMA" description=""/>
+      <property name="UST_ID" value="5fa10cc512875025b39779f6"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>fc6a01e2-ca78-40fc-a1e1-9c8dec2a60d1</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>HEADER_2x01_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>cd2ff707-8cee-4e3b-a163-a7ef7a1fd300</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>HEADER_2x01_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x01</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9ff32a37-34af-4af6-8dcb-0e7a9707846d</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>74279204</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>404befaf-ce49-4fff-a7aa-d54298aabebe</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>100nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f880a</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="UST_ID" value="5c70984412875079b91f880a"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>b5e16dbc-7d19-494a-ad75-fd3da72b2690</tstamp>
+    </comp>
+    <comp ref="L3">
+      <value>1n5H</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5face60a12875025b3977f03</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="UST_ID" value="5face60a12875025b3977f03"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7b2322b7-4809-4af5-aafd-cd731d099f94</tstamp>
+    </comp>
+    <comp ref="L4">
+      <value>100nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f880a</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="UST_ID" value="5c70984412875079b91f880a"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>b46f684b-eb73-4bd8-a2f2-8d8712f280ef</tstamp>
+    </comp>
+    <comp ref="L5">
+      <value>100nH</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f880a</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="UST_ID" value="5c70984412875079b91f880a"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>45083507-4de5-411f-98bd-b6a253a76f25</tstamp>
+    </comp>
+    <comp ref="L6">
+      <value>6n8</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5face69f12875025b3977f1d</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="UST_ID" value="5face69f12875025b3977f1d"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>adf0bdd7-0352-4f99-adcb-b8bf8fdb6bd7</tstamp>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>94a8f668-191a-42b0-8f67-ca0acb766660</tstamp>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0a2c8183-9c6d-4af6-b99a-7134e349ae16</tstamp>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>02a8e8d1-27a4-461c-ab2d-79bb69e19435</tstamp>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="MLAB_MECHANICAL" part="HOLE" description=""/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>4a092fea-6e6a-48fa-9c8a-daa369e7c0da</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59947713-6c8f-45ff-a50c-edd580edf86d</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>e7881433-6358-4446-9782-e7131fd8bc4b</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>86215b0a-342e-4d68-ba4e-4ce815633c0f</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>c87f20f7-44de-4e88-ae9d-5e46848053d3</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f899f</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984612875079b91f899f"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9c3cb90d-7309-45cc-bc80-cb56a956fa1f</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>330R</value>
+      <footprint>Mlab_R:SMD-0805</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f8984</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="UST_ID" value="5c70984512875079b91f8984"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>d24b592c-d100-48ce-98cc-8814a0a62bfb</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>TPS22945DCKR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-353_SC-70-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/tps22945.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&amp;ts=1603435443532&amp;ref_url=https%253A%252F%252Fcz.mouser.com%252F</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f89ca</field>
+      </fields>
+      <libsource lib="MLAB_IO" part="TPS22945DCKR" description="x Low-input-voltage Current-limited Load Switches With Shut Off And AutoRestart Feature"/>
+      <property name="UST_ID" value="5c70984612875079b91f89ca"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>68e081e9-53df-45a4-be00-7b09da4586eb</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>PE4259</value>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
+      <datasheet>https://www.psemi.com/pdf/datasheets/pe4259ds.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5face19b12875025b3977e15</field>
+      </fields>
+      <libsource lib="MLAB_IO" part="PE4259" description="RF Switch"/>
+      <property name="UST_ID" value="5face19b12875025b3977e15"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>eaf8e267-6e30-4b85-8873-56f081d636e6</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>SPF5189Z</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3</footprint>
+      <datasheet>www.qorvo.com/products/d/da001910</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984612875079b91f8a08</field>
+      </fields>
+      <libsource lib="RF_Amplifier" part="SPF5189Z" description="50MHz to 4000MHz, GaAs pHEMT low noise MMIC amplifier, SOT-89"/>
+      <property name="UST_ID" value="5c70984612875079b91f8a08"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>fdc83034-ad0f-4d18-b9cf-5146338bc6e9</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>PE4259</value>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6</footprint>
+      <datasheet>https://www.psemi.com/pdf/datasheets/pe4259ds.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5face19b12875025b3977e15</field>
+      </fields>
+      <libsource lib="MLAB_IO" part="PE4259" description="RF Switch"/>
+      <property name="UST_ID" value="5face19b12875025b3977e15"/>
+      <property name="Název listu" value=""/>
+      <property name="Sheet file" value="C:/Chroust/stare/MLAB_G/Moduly_zvlast/RFSWITCH01/hw/sch_pcb/RFSWITCH01A.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>98050a5a-c821-4d24-9704-f4e7953dc9e7</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_CONNECTORS" part="SMA">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SMA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="unspc"/>
+        <pin num="2" name="~" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL">
+      <description>2x01 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x01_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL">
+      <description>2x03 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_IO" part="PE4259">
+      <description>RF Switch</description>
+      <docs>https://www.psemi.com/pdf/datasheets/pe4259ds.pdf</docs>
+      <footprints>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PE4259</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6</field>
+        <field name="Datasheet">https://www.psemi.com/pdf/datasheets/pe4259ds.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RF1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="RF2" type="passive"/>
+        <pin num="4" name="CTRL" type="input"/>
+        <pin num="5" name="RFC" type="passive"/>
+        <pin num="6" name="#CTRL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_IO" part="PE4259_1">
+      <description>RF Switch</description>
+      <docs>https://www.psemi.com/pdf/datasheets/pe4259ds.pdf</docs>
+      <footprints>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PE4259</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6</field>
+        <field name="Datasheet">https://www.psemi.com/pdf/datasheets/pe4259ds.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RF1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="RF2" type="passive"/>
+        <pin num="4" name="CTRL" type="input"/>
+        <pin num="5" name="RFC" type="passive"/>
+        <pin num="6" name="#CTRL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_IO" part="SAW_AFS434S3-T_AFS869S3-T">
+      <description>Dielectric Band Pass Filter for 1575MHz</description>
+      <fields>
+        <field name="Reference">FL</field>
+        <field name="Value">SAW_AFS434S3-T_AFS869S3-T</field>
+        <field name="Footprint">MLAB_SAW:ABRACON_AFS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="passive"/>
+        <pin num="2" name="IN" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="GND" type="passive"/>
+        <pin num="5" name="OUT" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_IO" part="TPS22945DCKR">
+      <description>x Low-input-voltage Current-limited Load Switches With Shut Off And AutoRestart Feature</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS22945DCKR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-353_SC-70-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="OC" type="BiDi"/>
+        <pin num="4" name="ON" type="input"/>
+        <pin num="5" name="IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_MECHANICAL" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="RF_Amplifier" part="SPF5189Z">
+      <description>50MHz to 4000MHz, GaAs pHEMT low noise MMIC amplifier, SOT-89</description>
+      <docs>www.qorvo.com/products/d/da001910</docs>
+      <footprints>
+        <fp>SOT?89*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SPF5189Z</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-89-3</field>
+        <field name="Datasheet">www.qorvo.com/products/d/da001910</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="~" type="output"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="MLAB_CONNECTORS">
+      <uri>C:\Chroust\stare\MLAB_G\kicad-mlab\symbols/MLAB_CONNECTORS.kicad_sym</uri>
+    </library>
+    <library logical="MLAB_HEADER">
+      <uri>C:\Chroust\stare\MLAB_G\kicad-mlab\symbols/MLAB_HEADER.lib</uri>
+    </library>
+    <library logical="MLAB_IO">
+      <uri>C:\Chroust\stare\MLAB_G\kicad-mlab\symbols/MLAB_IO.kicad_sym</uri>
+    </library>
+    <library logical="MLAB_MECHANICAL">
+      <uri>C:\Chroust\stare\MLAB_G\kicad-mlab\symbols/MLAB_MECHANICAL.lib</uri>
+    </library>
+    <library logical="RF_Amplifier">
+      <uri>C:\Program Files\KiCad\share\kicad\library/RF_Amplifier.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1"/>
+      <node ref="D1" pin="1" pinfunction="K"/>
+      <node ref="D4" pin="2" pinfunction="A"/>
+      <node ref="J1" pin="3"/>
+      <node ref="J1" pin="4"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="U1" pin="5" pinfunction="IN"/>
+    </net>
+    <net code="2" name="/RF_IN_OUT">
+      <node ref="C10" pin="1"/>
+      <node ref="L6" pin="2" pinfunction="2"/>
+      <node ref="U2" pin="5" pinfunction="RFC"/>
+    </net>
+    <net code="3" name="/RX">
+      <node ref="FL1" pin="5" pinfunction="OUT"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="4" name="/RX{slash}TX_1">
+      <node ref="C6" pin="2"/>
+      <node ref="J7" pin="1"/>
+      <node ref="L4" pin="2" pinfunction="2"/>
+    </net>
+    <net code="5" name="/RX{slash}TX_2">
+      <node ref="C7" pin="2"/>
+      <node ref="J8" pin="1"/>
+      <node ref="L5" pin="2" pinfunction="2"/>
+    </net>
+    <net code="6" name="/SW1_#CTRL">
+      <node ref="D3" pin="1" pinfunction="K"/>
+      <node ref="J10" pin="1"/>
+      <node ref="J10" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U4" pin="6" pinfunction="#CTRL"/>
+    </net>
+    <net code="7" name="/SW1_CTRL">
+      <node ref="J9" pin="1"/>
+      <node ref="J9" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="U1" pin="4" pinfunction="ON"/>
+      <node ref="U4" pin="4" pinfunction="CTRL"/>
+    </net>
+    <net code="8" name="/SW2_#CTRL">
+      <node ref="D2" pin="1" pinfunction="K"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J5" pin="2"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U2" pin="6" pinfunction="#CTRL"/>
+    </net>
+    <net code="9" name="/SW2_CTRL">
+      <node ref="J4" pin="1"/>
+      <node ref="J4" pin="2"/>
+      <node ref="R2" pin="1"/>
+      <node ref="U2" pin="4" pinfunction="CTRL"/>
+    </net>
+    <net code="10" name="/TX">
+      <node ref="J2" pin="1"/>
+      <node ref="U4" pin="3" pinfunction="RF2"/>
+    </net>
+    <net code="11" name="GND">
+      <node ref="C1" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="D1" pin="2" pinfunction="A"/>
+      <node ref="D2" pin="2" pinfunction="A"/>
+      <node ref="D3" pin="2" pinfunction="A"/>
+      <node ref="FL1" pin="1" pinfunction="GND"/>
+      <node ref="FL1" pin="3" pinfunction="GND"/>
+      <node ref="FL1" pin="4" pinfunction="GND"/>
+      <node ref="FL1" pin="6" pinfunction="GND"/>
+      <node ref="J1" pin="1"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J1" pin="5"/>
+      <node ref="J1" pin="6"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J7" pin="2"/>
+      <node ref="J8" pin="2"/>
+      <node ref="L4" pin="1" pinfunction="1"/>
+      <node ref="L5" pin="1" pinfunction="1"/>
+      <node ref="M1" pin="1"/>
+      <node ref="M2" pin="1"/>
+      <node ref="M3" pin="1"/>
+      <node ref="M4" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="U1" pin="2" pinfunction="GND"/>
+      <node ref="U2" pin="2" pinfunction="GND"/>
+      <node ref="U3" pin="2" pinfunction="GND"/>
+      <node ref="U4" pin="2" pinfunction="GND"/>
+    </net>
+    <net code="12" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1"/>
+      <node ref="L1" pin="1" pinfunction="1"/>
+      <node ref="U1" pin="1" pinfunction="OUT"/>
+    </net>
+    <net code="13" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="L1" pin="2" pinfunction="2"/>
+      <node ref="L2" pin="1" pinfunction="1"/>
+    </net>
+    <net code="14" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1"/>
+      <node ref="FL1" pin="2" pinfunction="IN"/>
+    </net>
+    <net code="15" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2"/>
+      <node ref="L2" pin="2" pinfunction="2"/>
+      <node ref="U3" pin="3"/>
+    </net>
+    <net code="16" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1"/>
+      <node ref="U2" pin="1" pinfunction="RF1"/>
+    </net>
+    <net code="17" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1"/>
+      <node ref="U2" pin="3" pinfunction="RF2"/>
+    </net>
+    <net code="18" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1"/>
+      <node ref="L3" pin="2" pinfunction="2"/>
+    </net>
+    <net code="19" name="Net-(C8-Pad2)">
+      <node ref="C8" pin="2"/>
+      <node ref="U4" pin="1" pinfunction="RF1"/>
+    </net>
+    <net code="20" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1"/>
+      <node ref="L6" pin="1" pinfunction="1"/>
+      <node ref="U4" pin="5" pinfunction="RFC"/>
+    </net>
+    <net code="21" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="22" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1"/>
+      <node ref="J6" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="U1" pin="3" pinfunction="OC"/>
+    </net>
+    <net code="23" name="Net-(L3-Pad1)">
+      <node ref="L3" pin="1" pinfunction="1"/>
+      <node ref="U3" pin="1"/>
+    </net>
+  </nets>
+</export>

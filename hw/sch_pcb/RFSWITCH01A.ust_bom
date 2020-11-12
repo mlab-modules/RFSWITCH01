@@ -1,0 +1,351 @@
+[
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C1", 
+        "Tstamp": "58d02eb4-b6cd-49e6-89c7-bde1e73520b0", 
+        "UST_ID": "5c70984812875079b91f8bbd", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C2", 
+        "Tstamp": "eb160569-9e56-4b4c-92ac-7376208cb3df", 
+        "UST_ID": "5c70984712875079b91f8b3b", 
+        "Value": "100pF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C3", 
+        "Tstamp": "2122f01d-f131-464b-8f48-7118a45e75e5", 
+        "UST_ID": "5c70984712875079b91f8b4c", 
+        "Value": "100nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C4", 
+        "Tstamp": "8809ebb4-3248-4151-9c07-aa48c0d8964e", 
+        "UST_ID": "5c70984712875079b91f8b3b", 
+        "Value": "100pF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C5", 
+        "Tstamp": "324703e5-1524-4c3c-aa14-7883db73e40f", 
+        "UST_ID": "5c70984712875079b91f8b45", 
+        "Value": "1nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C6", 
+        "Tstamp": "19af895c-00e5-4137-894f-99eac816f2e2", 
+        "UST_ID": "5c70984712875079b91f8b45", 
+        "Value": "1nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C7", 
+        "Tstamp": "f4c8e16e-4166-4f4b-8fbf-2a777c90d232", 
+        "UST_ID": "5c70984712875079b91f8b45", 
+        "Value": "1nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C8", 
+        "Tstamp": "c27783d8-3736-447e-8852-f7091b1db64e", 
+        "UST_ID": "5c70984712875079b91f8b45", 
+        "Value": "1nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C9", 
+        "Tstamp": "04d1d7eb-7654-47d3-ad40-fde15231f29d", 
+        "UST_ID": "5c70984712875079b91f8b27", 
+        "Value": "2p2"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "C10", 
+        "Tstamp": "666e0ca8-5d7a-4450-b949-9e7ad1170d14", 
+        "UST_ID": "5c70984712875079b91f8b27", 
+        "Value": "2p2"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Diode_SMD:D_SMA", 
+        "Ref": "D1", 
+        "Tstamp": "9978a045-bfc7-4348-bf08-9595a56abf82", 
+        "UST_ID": "5c70984512875079b91f88ac", 
+        "Value": "M4"
+    }, 
+    {
+        "Datasheet": "https://www.tme.eu/cz/details/mmsz5227bq-7-f/zenerovy-diody-smd/diodes-incorporated/", 
+        "Footprint": "Diode_SMD:D_MiniMELF", 
+        "Ref": "D2", 
+        "Tstamp": "05af1439-b5b1-4738-a285-9b92f6c296ea", 
+        "UST_ID": "5c70984512875079b91f88b1", 
+        "Value": "BZV55C-3,6V"
+    }, 
+    {
+        "Datasheet": "https://www.tme.eu/cz/details/mmsz5227bq-7-f/zenerovy-diody-smd/diodes-incorporated/", 
+        "Footprint": "Diode_SMD:D_MiniMELF", 
+        "Ref": "D3", 
+        "Tstamp": "6e2b366e-c2cb-4211-8bc8-8b2c5c4dbd87", 
+        "UST_ID": "5c70984512875079b91f88b1", 
+        "Value": "BZV55C-3,6V"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_D:LED_1206", 
+        "Ref": "D4", 
+        "Tstamp": "4f14cd68-8a35-4b7b-bfab-b80f79e7e421", 
+        "UST_ID": "5c70984412875079b91f8896", 
+        "Value": "RED"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "MLAB_SAW:ABRACON_AFS", 
+        "Ref": "FL1", 
+        "Tstamp": "67bb44c0-9777-4820-b5d9-1abcb1b6ed58", 
+        "UST_ID": "5c70984712875079b91f8b19", 
+        "Value": "SAW_AFS434S3-T_AFS869S3-T"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x03", 
+        "Ref": "J1", 
+        "Tstamp": "12352d3f-7f11-4669-8127-f5076d7a5833", 
+        "Value": "HEADER_2x03_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Connector_Coaxial:SMB_Jack_Vertical", 
+        "Ref": "J2", 
+        "Tstamp": "e7024046-af9f-4fab-98e9-6813e4e55518", 
+        "UST_ID": "5fa10cc512875025b39779f6", 
+        "Value": "SMA"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Connector_Coaxial:SMB_Jack_Vertical", 
+        "Ref": "J3", 
+        "Tstamp": "0904887b-cd6c-4d89-9321-511f38cd5bc7", 
+        "UST_ID": "5fa10cc512875025b39779f6", 
+        "Value": "SMA"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J4", 
+        "Tstamp": "127366a1-c95e-40a0-b8e4-6eb0cfbdf20f", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J5", 
+        "Tstamp": "66c21de5-b57f-45b4-a278-31a12caaa61e", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J6", 
+        "Tstamp": "9309b779-2147-4d22-8092-cee645fc2e3c", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Connector_Coaxial:SMB_Jack_Vertical", 
+        "Ref": "J7", 
+        "Tstamp": "e0a70bdb-04f4-4ba2-97f8-f9e64c1e4608", 
+        "UST_ID": "5fa10cc512875025b39779f6", 
+        "Value": "SMA"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Connector_Coaxial:SMB_Jack_Vertical", 
+        "Ref": "J8", 
+        "Tstamp": "fc6a01e2-ca78-40fc-a1e1-9c8dec2a60d1", 
+        "UST_ID": "5fa10cc512875025b39779f6", 
+        "Value": "SMA"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J9", 
+        "Tstamp": "cd2ff707-8cee-4e3b-a163-a7ef7a1fd300", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J10", 
+        "Tstamp": "9ff32a37-34af-4af6-8dcb-0e7a9707846d", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Inductor_SMD:L_0805_2012Metric", 
+        "Ref": "L1", 
+        "Tstamp": "404befaf-ce49-4fff-a7aa-d54298aabebe", 
+        "Value": "74279204"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Inductor_SMD:L_0805_2012Metric", 
+        "Ref": "L2", 
+        "Tstamp": "b5e16dbc-7d19-494a-ad75-fd3da72b2690", 
+        "UST_ID": "5c70984412875079b91f880a", 
+        "Value": "100nH"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Inductor_SMD:L_0805_2012Metric", 
+        "Ref": "L3", 
+        "Tstamp": "7b2322b7-4809-4af5-aafd-cd731d099f94", 
+        "UST_ID": "5face60a12875025b3977f03", 
+        "Value": "1n5H"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Inductor_SMD:L_0805_2012Metric", 
+        "Ref": "L4", 
+        "Tstamp": "b46f684b-eb73-4bd8-a2f2-8d8712f280ef", 
+        "UST_ID": "5c70984412875079b91f880a", 
+        "Value": "100nH"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Inductor_SMD:L_0805_2012Metric", 
+        "Ref": "L5", 
+        "Tstamp": "45083507-4de5-411f-98bd-b6a253a76f25", 
+        "UST_ID": "5c70984412875079b91f880a", 
+        "Value": "100nH"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "L6", 
+        "Tstamp": "adf0bdd7-0352-4f99-adcb-b8bf8fdb6bd7", 
+        "UST_ID": "5face69f12875025b3977f1d", 
+        "Value": "6n8"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Mechanical:MountingHole_3mm", 
+        "Ref": "M1", 
+        "Tstamp": "94a8f668-191a-42b0-8f67-ca0acb766660", 
+        "Value": "HOLE"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Mechanical:MountingHole_3mm", 
+        "Ref": "M2", 
+        "Tstamp": "0a2c8183-9c6d-4af6-b99a-7134e349ae16", 
+        "Value": "HOLE"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Mechanical:MountingHole_3mm", 
+        "Ref": "M3", 
+        "Tstamp": "02a8e8d1-27a4-461c-ab2d-79bb69e19435", 
+        "Value": "HOLE"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Mechanical:MountingHole_3mm", 
+        "Ref": "M4", 
+        "Tstamp": "4a092fea-6e6a-48fa-9c8a-daa369e7c0da", 
+        "Value": "HOLE"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R1", 
+        "Tstamp": "59947713-6c8f-45ff-a50c-edd580edf86d", 
+        "UST_ID": "5c70984612875079b91f899f", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R2", 
+        "Tstamp": "e7881433-6358-4446-9782-e7131fd8bc4b", 
+        "UST_ID": "5c70984612875079b91f899f", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R3", 
+        "Tstamp": "86215b0a-342e-4d68-ba4e-4ce815633c0f", 
+        "UST_ID": "5c70984612875079b91f899f", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R4", 
+        "Tstamp": "c87f20f7-44de-4e88-ae9d-5e46848053d3", 
+        "UST_ID": "5c70984612875079b91f899f", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R5", 
+        "Tstamp": "9c3cb90d-7309-45cc-bc80-cb56a956fa1f", 
+        "UST_ID": "5c70984612875079b91f899f", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R6", 
+        "Tstamp": "d24b592c-d100-48ce-98cc-8814a0a62bfb", 
+        "UST_ID": "5c70984512875079b91f8984", 
+        "Value": "330R"
+    }, 
+    {
+        "Datasheet": "https://www.ti.com/lit/ds/symlink/tps22945.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1603435443532&ref_url=https%253A%252F%252Fcz.mouser.com%252F", 
+        "Footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5", 
+        "Ref": "U1", 
+        "Tstamp": "68e081e9-53df-45a4-be00-7b09da4586eb", 
+        "UST_ID": "5c70984612875079b91f89ca", 
+        "Value": "TPS22945DCKR"
+    }, 
+    {
+        "Datasheet": "https://www.psemi.com/pdf/datasheets/pe4259ds.pdf", 
+        "Footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6", 
+        "Ref": "U2", 
+        "Tstamp": "eaf8e267-6e30-4b85-8873-56f081d636e6", 
+        "UST_ID": "5face19b12875025b3977e15", 
+        "Value": "PE4259"
+    }, 
+    {
+        "Datasheet": "www.qorvo.com/products/d/da001910", 
+        "Footprint": "Package_TO_SOT_SMD:SOT-89-3", 
+        "Ref": "U3", 
+        "Tstamp": "fdc83034-ad0f-4d18-b9cf-5146338bc6e9", 
+        "UST_ID": "5c70984612875079b91f8a08", 
+        "Value": "SPF5189Z"
+    }, 
+    {
+        "Datasheet": "https://www.psemi.com/pdf/datasheets/pe4259ds.pdf", 
+        "Footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6", 
+        "Ref": "U4", 
+        "Tstamp": "98050a5a-c821-4d24-9704-f4e7953dc9e7", 
+        "UST_ID": "5face19b12875025b3977e15", 
+        "Value": "PE4259"
+    }
+]
