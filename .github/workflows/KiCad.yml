@@ -70,6 +70,7 @@ jobs:
       with:
         message: 'Automation'
         add: 'hw/cam/*.pdf hw/cam/*.svg' 
+        pull_strategy: '--rebase'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
