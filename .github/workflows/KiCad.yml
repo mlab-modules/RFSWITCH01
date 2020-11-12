@@ -64,13 +64,18 @@ jobs:
       with:
         name: cam_data
         path: hw/cam
-    
-    - name: Commit changes
-      uses: EndBug/add-and-commit@v5
+#     - name: Commit changes
+#       uses: EndBug/add-and-commit@v5
+#       with:
+#         message: 'Automation'
+#         add: 'hw/cam/*.pdf hw/cam/*.svg' 
+#       env:
+#         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Git Commit and Push
+      uses: github-actions-x/commit@v2.6
       with:
-        message: 'Automation'
-        add: 'hw/cam/*.pdf hw/cam/*.svg' 
-        pull_strategy: '--rebase'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        force-add: true
+        #rebase: # optional, default is false
+        files: 'hw/cam/*.pdf hw/cam/*.svg' 
 
