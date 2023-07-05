@@ -10,9 +10,18 @@ image: doc/img/RFSWITCH01A_bot_big.png
 images:
 - doc/img/RFSWITCH01A_bot_big.png
 - doc/img/RFSWITCH01A_top_big.png
+- doc/gen/img/RFSWITCH01-bottom.png
+- doc/gen/img/RFSWITCH01-top.png
+- doc/gen/RFSWITCH01-schematic.svg
+- doc/gen/img/RFSWITCH01-bottom.svg
+- doc/gen/img/RFSWITCH01-top.svg
+- hw/cam_profi/docs/RFSWITCH01A-assembly_page_01.svg
+- hw/cam_profi/docs/RFSWITCH01A-assembly_page_02.svg
 - hw/cam/docs/RFSWITCH01A_schematic.svg
 issues: 2
 mark: 50
+mod_ibom: hw/cam_profi/ibom/RFSWITCH01-ibom.html
+mod_scheme: doc/gen/RFSWITCH01-schematic.pdf
 tags:
 - rf
 - rf-signal
