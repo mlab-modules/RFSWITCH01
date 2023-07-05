@@ -8,8 +8,8 @@ github_url: https://github.com/mlab-modules/RFSWITCH01
 homepage: false
 image: doc/img/RFSWITCH01A_bot_big.png
 images:
-- doc/img/RFSWITCH01A_top_big.png
 - doc/img/RFSWITCH01A_bot_big.png
+- doc/img/RFSWITCH01A_top_big.png
 - hw/cam/docs/RFSWITCH01A_schematic.svg
 issues: 2
 mark: 50
