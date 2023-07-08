@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","HEADER_2x03_PARALLEL","Straight_2x03",148.0950,-77.3050,90.0000,top
+"J2","SMA","SMB_Jack_Vertical",140.4750,-86.8300,0.0000,top
+"J3","SMA","SMB_Jack_Vertical",140.4750,-98.2600,0.0000,top
+"J4","HEADER_2x01_PARALLEL","Straight_2x01",158.8900,-79.2100,90.0000,top
+"J5","HEADER_2x01_PARALLEL","Straight_2x01",161.4300,-79.2100,90.0000,top
+"J6","HEADER_2x01_PARALLEL","Straight_2x01",163.8430,-107.6580,90.0000,top
+"J7","SMA","SMB_Jack_Vertical",168.4150,-86.8300,0.0000,top
+"J8","SMA","SMB_Jack_Vertical",168.4150,-98.2600,0.0000,top
+"J9","HEADER_2x01_PARALLEL","Straight_2x01",153.8100,-79.2100,90.0000,top
+"J10","HEADER_2x01_PARALLEL","Straight_2x01",156.3500,-79.2100,90.0000,top
+"M1","HOLE","MountingHole_3mm",169.6850,-77.3050,0.0000,top
+"M2","HOLE","MountingHole_3mm",139.2050,-107.7850,0.0000,top
+"M3","HOLE","MountingHole_3mm",139.2050,-77.3050,0.0000,top
+"M4","HOLE","MountingHole_3mm",169.6850,-107.7850,0.0000,top
