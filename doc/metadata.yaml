@@ -15,12 +15,12 @@ images:
 - doc/gen/RFSWITCH01-schematic.svg
 - doc/gen/img/RFSWITCH01-top.svg
 - doc/gen/img/RFSWITCH01-bottom.svg
-- hw/cam_profi/docs/RFSWITCH01A-assembly_page_01.svg
-- hw/cam_profi/docs/RFSWITCH01A-assembly_page_02.svg
+- hw/cam_profi/assembly/RFSWITCH01-assembly_page_02.svg
+- hw/cam_profi/assembly/RFSWITCH01-assembly_page_01.svg
 - hw/cam/docs/RFSWITCH01A_schematic.svg
 issues: 2
 mark: 50
-mod_ibom: hw/cam_profi/ibom/RFSWITCH01-ibom.html
+mod_ibom: hw/cam_profi/RFSWITCH01-ibom.html
 mod_scheme: doc/gen/RFSWITCH01-schematic.pdf
 tags:
 - rf
