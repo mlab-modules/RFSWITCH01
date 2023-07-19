@@ -5,8 +5,8 @@ github_branches:
 - RFSWITCH01A
 github_repo: RFSWITCH01
 github_url: https://github.com/mlab-modules/RFSWITCH01
-homepage: false
-image: doc/img/RFSWITCH01A_bot_big.png
+homepage: true
+title_image: doc/img/RFSWITCH01A_bot_big.png
 images:
 - doc/img/RFSWITCH01A_top_big.png
 - doc/img/RFSWITCH01A_bot_big.png
@@ -19,7 +19,7 @@ images:
 - hw/cam_profi/assembly/RFSWITCH01-assembly_page_01.svg
 - hw/cam/docs/RFSWITCH01A_schematic.svg
 issues: 2
-mark: 50
+mark: 80
 mod_ibom: hw/cam_profi/RFSWITCH01-ibom.html
 mod_scheme: doc/gen/RFSWITCH01-schematic.pdf
 tags:
