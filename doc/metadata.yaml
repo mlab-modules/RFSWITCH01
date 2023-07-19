@@ -1,4 +1,6 @@
-description: RF path and antenna switch for ISM transceivers
+description: The RFSWITCH01 is an MLAB module featuring two PE4259 RF switches. Designed
+  for radio transceivers with separate input and output, it provides MIMO 2x2 support
+  and is typically equipped for 433MHz and 868MHz frequencies.
 github_branch: RFSWITCH01A
 github_branches:
 - MODUL01A
@@ -33,6 +35,12 @@ tags:
 - kicad-project
 - mlab-kicad
 - pcb
+- radio
+- switch
+- mimo-2x2
+- mimo2x2
+- pe4259
+- transivere
 title: RFSWITCH01
 title_image: doc/img/RFSWITCH01A_bot_big.png
-updated: '2023-07-19T20:57:28.535864+00:00'
+updated: '2023-07-19T20:58:48.534958+00:00'
