@@ -10,16 +10,16 @@ github_url: https://github.com/mlab-modules/RFSWITCH01
 homepage: true
 image_title: doc/gen/img/RFSWITCH01-top.png
 images:
-- doc/img/RFSWITCH01A_top_big.png
-- doc/img/RFSWITCH01A_bot_big.png
-- doc/gen/img/RFSWITCH01-top.png
 - doc/gen/img/RFSWITCH01-bottom.png
+- doc/gen/img/RFSWITCH01-top.png
+- doc/img/RFSWITCH01A_bot_big.png
+- doc/img/RFSWITCH01A_top_big.png
 - doc/gen/RFSWITCH01-schematic.svg
 - doc/gen/img/RFSWITCH01-top.svg
 - doc/gen/img/RFSWITCH01-bottom.svg
+- hw/cam/docs/RFSWITCH01A_schematic.svg
 - hw/cam_profi/assembly/RFSWITCH01-assembly_page_02.svg
 - hw/cam_profi/assembly/RFSWITCH01-assembly_page_01.svg
-- hw/cam/docs/RFSWITCH01A_schematic.svg
 issues: 2
 mark: 80
 mod_ibom: hw/cam_profi/RFSWITCH01-ibom.html
@@ -44,4 +44,4 @@ tags:
 - transivere
 title: RFSWITCH01
 title_image: doc/img/RFSWITCH01A_bot_big.png
-updated: '2023-07-21T03:43:41.733703+00:00'
+updated: '2023-09-11T00:58:36.271148+00:00'
