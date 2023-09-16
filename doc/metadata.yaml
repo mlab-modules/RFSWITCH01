@@ -24,6 +24,7 @@ issues: 2
 mark: 80
 mod_ibom: hw/cam_profi/RFSWITCH01-ibom.html
 mod_scheme: doc/gen/RFSWITCH01-schematic.pdf
+status: 0
 tags:
 - rf
 - rf-signal
