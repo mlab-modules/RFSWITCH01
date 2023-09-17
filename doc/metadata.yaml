@@ -5,6 +5,9 @@ github_branch: RFSWITCH01A
 github_branches:
 - MODUL01A
 - RFSWITCH01A
+github_description: The RFSWITCH01 is an MLAB module featuring two PE4259 RF switches.
+  Designed for radio transceivers with separate input and output, it provides MIMO
+  2x2 support and is typically equipped for 433MHz and 868MHz frequencies.
 github_repo: RFSWITCH01
 github_url: https://github.com/mlab-modules/RFSWITCH01
 homepage: true
@@ -45,4 +48,4 @@ tags:
 - transivere
 title: RFSWITCH01
 title_image: doc/img/RFSWITCH01A_bot_big.png
-updated: '2023-09-16T22:02:53.377069+00:00'
+updated: '2023-09-17T11:33:38.523907+00:00'
