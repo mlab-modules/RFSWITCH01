@@ -1,28 +1,26 @@
-description: The RFSWITCH01 is an MLAB module featuring two PE4259 RF switches. Designed
-  for radio transceivers with separate input and output, it provides MIMO 2x2 support
-  and is typically equipped for 433MHz and 868MHz frequencies.
+description: The module featuring two RF switches. Designed for radio transceivers
+  with separate input and output.
 github_branch: RFSWITCH01A
 github_branches:
 - MODUL01A
 - RFSWITCH01A
-github_description: The RFSWITCH01 is an MLAB module featuring two PE4259 RF switches.
-  Designed for radio transceivers with separate input and output, it provides MIMO
-  2x2 support and is typically equipped for 433MHz and 868MHz frequencies.
+github_description: The module featuring two RF switches. Designed for radio transceivers
+  with separate input and output.
 github_repo: RFSWITCH01
 github_url: https://github.com/mlab-modules/RFSWITCH01
 homepage: true
 image_title: doc/gen/img/RFSWITCH01-top.png
 images:
+- doc/gen/img/RFSWITCH01-top.png
+- doc/gen/img/RFSWITCH01-bottom.png
 - doc/img/RFSWITCH01A_top_big.png
 - doc/img/RFSWITCH01A_bot_big.png
-- doc/gen/img/RFSWITCH01-bottom.png
-- doc/gen/img/RFSWITCH01-top.png
 - doc/gen/RFSWITCH01-schematic.svg
 - doc/gen/img/RFSWITCH01-top.svg
 - doc/gen/img/RFSWITCH01-bottom.svg
-- hw/cam/docs/RFSWITCH01A_schematic.svg
-- hw/cam_profi/assembly/RFSWITCH01-assembly_page_02.svg
 - hw/cam_profi/assembly/RFSWITCH01-assembly_page_01.svg
+- hw/cam_profi/assembly/RFSWITCH01-assembly_page_02.svg
+- hw/cam/docs/RFSWITCH01A_schematic.svg
 issues: 2
 mark: 80
 mod_ibom: hw/cam_profi/RFSWITCH01-ibom.html
@@ -48,4 +46,4 @@ tags:
 - transivere
 title: RFSWITCH01
 title_image: doc/img/RFSWITCH01A_bot_big.png
-updated: '2023-09-17T11:51:50.660963+00:00'
+updated: '2024-07-03T21:33:57.913728+00:00'
