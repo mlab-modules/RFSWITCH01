@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The RFSWITCH01 is an MLAB module that incorporates a pair of RF switches, specifically the [PE4259](http://www.psemi.com/pdf/datasheets/pe4259ds.pdf). from Peregrine Semiconductor. This module is designed to connect to a radio transceiver that has separate radio input and output. Thanks to the use of two switches, the module allows connect two antennas. The individual switches are controlled by a simple digital input signal. With RFSWITCH01, a transceiver can work with support of [MIMO 2x2](https://en.wikipedia.org/wiki/MIMO). The module is typically assembled for frequencies of 433MHz and 868MHz.
+The RFSWITCH01 is an MLAB module that incorporates a pair of RF switches, specifically the [PE4259](http://www.psemi.com/pdf/datasheets/pe4259ds.pdf). from Peregrine Semiconductor. This module is designed to connect to a radio transceiver that has separate radio input and output. Thanks to the use of two switches, the module allows connecting two antennas. The individual switches are controlled by a simple digital input signal. With RFSWITCH01, a transceiver can work with the support of [MIMO 2x2](https://en.wikipedia.org/wiki/MIMO). The module is typically assembled for frequencies of 433MHz and 868MHz.
 
 ![Top view on RFSWITCH01A](/doc/img/RFSWITCH01A_top_big.png)
 
