@@ -15,12 +15,12 @@ images:
 - doc/gen/img/RFSWITCH01-bottom.png
 - doc/img/RFSWITCH01A_top_big.png
 - doc/img/RFSWITCH01A_bot_big.png
-- doc/gen/RFSWITCH01-schematic.svg
-- doc/gen/img/RFSWITCH01-top.svg
-- doc/gen/img/RFSWITCH01-bottom.svg
-- hw/cam_profi/assembly/RFSWITCH01-assembly_page_01.svg
-- hw/cam_profi/assembly/RFSWITCH01-assembly_page_02.svg
 - hw/cam/docs/RFSWITCH01A_schematic.svg
+- hw/cam_profi/assembly/RFSWITCH01-assembly_page_02.svg
+- hw/cam_profi/assembly/RFSWITCH01-assembly_page_01.svg
+- doc/gen/RFSWITCH01-schematic.svg
+- doc/gen/img/RFSWITCH01-bottom.svg
+- doc/gen/img/RFSWITCH01-top.svg
 issues: 2
 mark: 80
 mod_ibom: hw/cam_profi/RFSWITCH01-ibom.html
@@ -46,4 +46,4 @@ tags:
 - transivere
 title: RFSWITCH01
 title_image: doc/img/RFSWITCH01A_bot_big.png
-updated: '2024-07-04T00:57:36.055526+00:00'
+updated: '2024-07-15T00:58:16.932307+00:00'
